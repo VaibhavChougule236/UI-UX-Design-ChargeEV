@@ -39,10 +39,5 @@ The goal of this project is to provide a **seamless, user-friendly, and efficien
 ## 👨‍💻 Author
 
 **Vaibhav Chougule**  
-Aspiring Full Stack Java Developer 🚀  
-
----
-
-## ⭐ Support
-
-If you like this project, give it a ⭐ and share your feedback!
+Full Stack Java Developer 🚀  
+  
